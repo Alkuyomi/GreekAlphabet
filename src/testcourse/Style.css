@@ -1,0 +1,24 @@
+.layout{
+    -fx-background-color : darkslategray ;
+    -fx-text-fill : #FFFFFF ;
+}
+.btn{
+   -fx-background-color : #33615C ;
+   //-fx-border-color: #FFFFFF ;
+   -fx-text-fill : #FFFFFF ;
+}
+
+.label{
+    
+   
+   -fx-text-fill : #f6aa09 ;
+}
+
+.list{
+    -fx-backgroud-color : #5F5E63;
+    -fx-text-fill : #FFFFFF ;
+}
+
+.b_n_btns{
+    -fx-background-color : #2f4f4e ;
+}
